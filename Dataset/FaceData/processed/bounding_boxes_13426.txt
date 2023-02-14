@@ -1,0 +1,10 @@
+Dataset/FaceData/processed\Nguyen_Lam_Thanh_20203498\Nguyen_Lam_Thanh_0.png 206 139 404 388
+Dataset/FaceData/processed\Nguyen_Lam_Thanh_20203498\Nguyen_Lam_Thanh_9.png 208 139 397 375
+Dataset/FaceData/processed\Nguyen_Lam_Thanh_20203498\Nguyen_Lam_Thanh_1.png 205 145 398 381
+Dataset/FaceData/processed\Nguyen_Lam_Thanh_20203498\Nguyen_Lam_Thanh_6.png 212 143 405 382
+Dataset/FaceData/processed\Nguyen_Lam_Thanh_20203498\Nguyen_Lam_Thanh_2.png 214 144 403 381
+Dataset/FaceData/processed\Nguyen_Lam_Thanh_20203498\Nguyen_Lam_Thanh_7.png 202 137 391 379
+Dataset/FaceData/processed\Nguyen_Lam_Thanh_20203498\Nguyen_Lam_Thanh_8.png 202 136 391 380
+Dataset/FaceData/processed\Nguyen_Lam_Thanh_20203498\Nguyen_Lam_Thanh_4.png 214 144 404 383
+Dataset/FaceData/processed\Nguyen_Lam_Thanh_20203498\Nguyen_Lam_Thanh_3.png 214 145 404 383
+Dataset/FaceData/processed\Nguyen_Lam_Thanh_20203498\Nguyen_Lam_Thanh_5.png 214 142 403 382
